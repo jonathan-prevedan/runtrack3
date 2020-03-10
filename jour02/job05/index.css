@@ -1,0 +1,16 @@
+body
+{
+    min-height: 4096px;
+    padding: 0;
+    margin: 0;
+}
+
+footer
+{
+    height: 100px;
+    width: 0%;
+    bottom: 0;
+    background: rgb(90, 90, 90);
+    position: fixed;
+
+}
