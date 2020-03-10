@@ -1,0 +1,3 @@
+var msg="Hello Javascript!";
+console.log(msg);
+alert(msg);
